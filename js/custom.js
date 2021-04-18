@@ -16,12 +16,19 @@ hamburger.addEventListener('click', () => {
 
 last_child.addEventListener('click', () => {
     body.classList.toggle('overflow_2');
-})
+});
 
 // if(last_child !== null){
 //     last_child.addEventListener('click', () => {
 //         body.classList.toggle('overflow_2');
-//     })
-// }
+//     });
+// };
+
+
+
+
+
+
+
 
 

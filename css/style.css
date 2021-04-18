@@ -241,6 +241,9 @@ input[type="submit"]{
 /* -------------------------------------------------------------------------------------- */
 
 @media screen and (max-width: 600px){
+    body{
+        overflow-x: hidden;
+    }
     header{
         background-position: center;
     }
@@ -361,5 +364,4 @@ input[type="submit"]{
     .navbar ul li:last-child{
         border: 2px solid rgb(225,230,224);
     }
-
 }
